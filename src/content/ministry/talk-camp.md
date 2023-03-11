@@ -1,12 +1,11 @@
 ---
-title: Talk with Youth Leadership Camp
+title: Talk with Leadership Camp
 publishDate: 2022-11-10 00:00:00
 img: /assets/talk_camp.avif
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Talk with Youth Leadership camp @ Place
 tags:
-  - Conference
   - Youth
   - Talk
   - Leadership
